@@ -1,0 +1,11 @@
+# Build output
+/bin/
+/mempie
+
+# Go test/build artifacts
+*.test
+*.out
+
+# OS/editor cruft
+.DS_Store
+*.swp
